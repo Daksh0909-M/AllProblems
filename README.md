@@ -23,4 +23,16 @@ These are the solutions to the LeetCode problems
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Daksh0909-M/AllProblems/tree/master/0200-number-of-islands) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Daksh0909-M/AllProblems/tree/master/0141-linked-list-cycle) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Daksh0909-M/AllProblems/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Daksh0909-M/AllProblems/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
